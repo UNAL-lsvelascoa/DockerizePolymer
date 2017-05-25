@@ -1,0 +1,4 @@
+fordockerize:
+  build: .
+  ports:
+    - "5000:8081"
