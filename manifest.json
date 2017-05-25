@@ -1,0 +1,7 @@
+{
+  "name": "fordockerize",
+  "short_name": "fordockerize",
+  "description": "An application for a tutorial of how to dockerize an polymer app",
+  "start_url": "/",
+  "display": "standalone"
+}
